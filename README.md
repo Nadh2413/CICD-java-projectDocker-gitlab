@@ -1,8 +1,6 @@
 # Shoeshop
 
-Demo: 
-
-https://www.youtube.com/watch?v=toylI0ur-Fw&t=382s
+Demo CI/CD:   https://www.youtube.com/watch?v=toylI0ur-Fw&t=382s
 
 
 Shoe Shopping Cart built with SpringBoot, JPA, MySQL , Spring Security, Hibernate and Thymeleaf
